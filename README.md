@@ -1,3 +1,5 @@
+Quick protocol breakdown:
+
 Channel B
 
 Indoor (1) Off
